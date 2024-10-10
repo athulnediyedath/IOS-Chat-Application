@@ -1,3 +1,3 @@
-<h1>align="center"iOS Chat Application</h1>
+<h1align="center">iOS Chat Application</h1>
 
 
