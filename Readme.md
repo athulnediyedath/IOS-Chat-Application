@@ -32,6 +32,6 @@
 
 <p align="center">
   <kbd>
-    <img src=""></img>
+    <img src="https://github.com/athulnediyedath/IOS-Chat-Application/blob/main/Flowchart_Chat.png"></img>
   </kbd>
 </p>
