@@ -25,7 +25,7 @@
 
 👉 XCode\
 👉 SwiftUI\
-👉 Google Firebase
+👉 Google Firebase\
 👉 Cocoapods
 
 ## Flowchart
